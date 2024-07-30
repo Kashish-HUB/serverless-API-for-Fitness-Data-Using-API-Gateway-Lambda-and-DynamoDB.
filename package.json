@@ -1,0 +1,14 @@
+{
+  "name": "kashishfit",
+  "version": "1.0.0",
+  "description": "fitness api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "anirban",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1659.0"
+  }
+}
